@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p>I'm currently just trying to get into developing. Nothing special yet, but I'm working on it!<.p>
+<p>I'm currently just trying to get into developing. Nothing special yet, but I'm working on it!</p>
 
 <!--
 **mb-waters/mb-waters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
