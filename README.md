@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I'm currently just trying to get into developing.
+
 <!--
 **mb-waters/mb-waters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
