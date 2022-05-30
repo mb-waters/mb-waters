@@ -1,4 +1,7 @@
 body {
 	text-align: center;
-	background-image: url ('/resources/website-bg');
+	background-image: url("/resources/website-bg");
 }
+ h1 p {
+	 background-colour: #ffffff;
+ }
