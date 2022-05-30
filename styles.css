@@ -2,7 +2,7 @@ body {
 	text-align: center;
 	background-image: url("website-bg.jpg");
 }
- h1 p {
+ h1, p {
 	 background-color: #ffffff;
 	 font-family: Helvetica;
  }
