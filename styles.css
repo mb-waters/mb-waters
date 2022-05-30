@@ -9,4 +9,10 @@ main {
 	 font-family: "Helvetica";
 	 border-radius: 1rem;
 	 width: 50%;
+	 margin: auto;
+ }
+ 
+ header {
+	 position: fixed;
+	 background-color: white;
  }
