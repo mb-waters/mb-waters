@@ -3,5 +3,6 @@ body {
 	background-image: url("website-bg.jpg");
 }
  h1 p {
-	 background-colour: #ffffff;
+	 background-color: #ffffff;
+	 font-family: Helvetica;
  }
