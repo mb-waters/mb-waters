@@ -6,7 +6,7 @@ body {
 	text-align: center;
 	background-image: url("website-bg.jpg");
 	margin: auto;
-	padding-top: 10%;
+	
 }
 
 main {
@@ -16,6 +16,7 @@ main {
 	 width: 50%;
 	 margin: auto;
 	 display: block;
+	 padding-top: 10%;
  }
  
  header {
