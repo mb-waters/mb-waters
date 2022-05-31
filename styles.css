@@ -1,5 +1,5 @@
 html {
-	text: Helvetica;
+	font-family: "Helvetica";
 }
 
 body {
@@ -11,7 +11,6 @@ body {
 
 main {
 	 background-color: #ffffff;
-	 font-family: "Helvetica";
 	 border-radius: 1rem;
 	 width: 50%;
 	 margin: auto;
@@ -21,7 +20,8 @@ main {
  
  header {
 	 position: fixed;
-	 background-color: white;
+	 background-color: #000000;
+	 color: #ffffff;
 	 width: 100%;
 	 display: block;
 	 height: 10%
